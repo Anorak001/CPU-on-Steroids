@@ -1,0 +1,5 @@
+[Forensics 01 - An unusual sighting](https://medium.com/@rahulhoysala07/hack-the-box-forensics-an-unusual-sighting-writeup-ba20a80a09db)
+[misc 01 - Character](https://infosecwriteups.com/htb-cyber-apocalypse-ctf-2024-misc-9d3d512900b4#2bda)
+[Coding 01 - Dynamic Paths](https://github.com/hackthebox/business-ctf-2024/tree/main/coding/%5BEasy%5D%20Dynamic%20Paths)
+[Crypto 02 - Blessed](https://github.com/hackthebox/business-ctf-2024/tree/main/crypto/%5BHard%5D%20Blessed)
+[Crypto 01 - Dynastic](https://medium.com/@rahulhoysala07/hack-the-box-crypto-challenge-dynastic-writeup-0e03ba6cd432)
